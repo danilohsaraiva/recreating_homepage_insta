@@ -1,4 +1,4 @@
-# Rescriando homepage do Instagram <a href="https://www.instagram.com/" target="_blank"><img src="assets/img/instagram_logo.png" width="20" height="20" ></a>
+# Recriando homepage do Instagram <a href="https://www.instagram.com/" target="_blank"><img src="assets/img/instagram_logo.png" width="20" height="20" ></a>
 
 **Sobre:**<br>
 
